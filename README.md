@@ -4,7 +4,7 @@ The analysis was performed to answer questions such as:
 1. Total trip duration across 6 months time period between Dec 2019 to May 2020
 2. Where do Citi Bikers ride? 
 3. Which stations are most popular? (>=300 rides between 2 respective stations)
-4. How many customers of citibike as subscribers too! 
+4. How many customers of citibike are subscribers too! 
 
 The dataset contains following fields - 
 Trip Duration (seconds)
