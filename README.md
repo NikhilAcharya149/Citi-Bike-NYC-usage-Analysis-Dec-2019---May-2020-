@@ -1,7 +1,7 @@
 # CitiBike NYC usage Analysis Dec 2019 - May 2020
 Analysis of Citi bike usage in NYC between Dec 2019 to May 2020. 
 
-**The PDF contains a screneshot of entire dashboard built using AWS quicksight**
+**Theere 2 PDFs which contain a screneshots of entire dashboard built using AWS quicksight & Tableau **
 
 The analysis was performed to answer questions such as:
 1. Total trip duration across 6 months time period between Dec 2019 to May 2020
