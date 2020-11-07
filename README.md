@@ -22,4 +22,4 @@ User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Membe
 Gender (Zero=unknown; 1=male; 2=female)
 Year of Birth
 
-***The dashboard is a work in progress!***
+[embed]https://github.com/NikhilAcharya149/CitiBike-NYC-usage-Analysis-Dec-2019-Aug-2020/blob/master/Citi%20bike%20NYC%20analysis.pdf
