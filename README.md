@@ -21,5 +21,3 @@ Bike ID
 User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
 Gender (Zero=unknown; 1=male; 2=female)
 Year of Birth
-
-[embed]https://github.com/NikhilAcharya149/CitiBike-NYC-usage-Analysis-Dec-2019-Aug-2020/blob/master/Citi%20bike%20NYC%20analysis.pdf
